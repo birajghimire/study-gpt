@@ -2,7 +2,7 @@ import streamlit as st
 from gpt import gpt_chat
 from database import add_to_db, get_next_question_document, update_next_review_time_based_on_difficulty
 
-#True if you want to add new questions to your db. The new questions must be inside some txt file
+#True if you want to add new questions to your db. The new questions must be inside questions_to_add.txt
 add_to_db(False)
 
 col1, col2 = st.columns([7,2])

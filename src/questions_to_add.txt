@@ -1,7 +1,1 @@
-Can you explain what Docker is and why it's useful?
-Can you explain what a REST API is?
-Can you explain the concept of time and space complexity with respect to algorithms?
-Can you describe what a hash table is and how it works?
-What are the four principles of Object-Oriented Programming?
-Can you describe what a binary search tree is?
-What is polymorphism in OOP?
+#Erase this line and add your questions in this file
