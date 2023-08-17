@@ -19,21 +19,19 @@ Additional functionality includes a conversation box, where users can interact f
 
 To use the system, you need to have a set of questions you want to study. The system will then serve these questions to you in an order determined by the spaced repetition algorithm. After answering a question, you will be asked to assess the difficulty of the question, which will determine the next review time for that question.
 
-You also have the option to freely converse with the GPT model.
-
 ## How to Run
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/your_username/StudyGPT.git
-   
+
 2. Install the requirements:
-  ```bash
-  pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 3. Set your OpenAI API key as an environment variable:
-  ```bash
-  export OPENAI_API_KEY=your_openai_api_key_here
+   ```bash
+   export OPENAI_API_KEY=your_openai_api_key_here
 
 4. Run Streamlit app:
   ```bash
