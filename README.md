@@ -35,7 +35,7 @@ To use the system, you need to have a set of questions you want to study. The sy
     
 4. Run Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
 
 
 
